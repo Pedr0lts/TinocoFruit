@@ -1,3 +1,11 @@
+//Turma: 3NA - Curso: ADS
+//Pedro Lemos da Trindade Silva - 01563236
+//Hitalo Matheus de Lima Almeida - 01351102
+//Teófilo Cláudio Espindola - 11026608
+//Luiz Eduardo Correia Rocha - 01092206
+
+
+
 const express = require('express')
 const app = express()
 const bdados = require('./banco');
